@@ -9,4 +9,4 @@ QASM: Built on python, basically just list the symbol for your quantum gate and 
 
 QASM code subject to frequent updates, most of this code was written and tested Spring 2018. However, diagrammatic representation of quantum circuits employed by IBMQX generally stays the same.
 
-
+Diagrams of quantum circuits uploaded as png's, qasm code uploaded as .qasm files. Output data uploaded as csv's designated as simulations or actual runs.
