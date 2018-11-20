@@ -10,7 +10,7 @@ Quantum Phase Estimation - https://en.wikipedia.org/wiki/Quantum_phase_estimatio
 ### Coding
 QASM code editor and diagrammatic composer are both very nice to work with. You can try to run it on an actual quantum device (can be long wait and limited in how much you can do this), get data from previous runs on the same circuit (best choice and most casual implementations will have this option) or just simulate the circuit. 
 
-Built on python, basically just list the symbol for your quantum gate and the qubit you want to apply that to then semicolon (e.g.'h q[0];' for Hadamard gate on first qubit). Will do these gate operations in order to build a quantum circuit. Can edit .qasm files in standard code editors and just import or copy and paste into the online IBMqx QASM editor. 
+QASM Built on python, but definitely easy enough o figure out if you've never seen python. Basically just list the symbol for your quantum gate and the qubit you want to apply that to then semicolon (e.g.'h q[0];' for Hadamard gate on first qubit). Will do these gate operations in order to build a quantum circuit. Can edit .qasm files in standard code editors and just import or copy and paste into the online IBMqx QASM editor. 
 
 QASM code subject to frequent updates, most of this code was written and tested Spring 2018. However, diagrammatic representation of quantum circuits employed by IBMQX generally stays the same.
 
